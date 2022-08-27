@@ -1,2 +1,3 @@
-# cocoatalk_clone
-HTML, CSS Basic
+# 노마드 코더 코코아톡 클론 프로젝트
+
+- HTML, CSS 기본 학습용

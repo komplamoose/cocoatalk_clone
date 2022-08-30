@@ -1,8 +1,17 @@
 @import "reset.css";
-@import "status-bar.css";
 @import "variable.css";
-@import "login.css";
+
+/* Components */
+@import "components/status-bar.css";
+@import "components/navigation.css";
+@import "components/screen-header.css";
+
+/* Screens */
+@import "screens/login.css";
+@import "screens/friends.css";
 
 body {
+  color: #2e363e;
   font-family: Arial, Helvetica, sans-serif;
+  height: 1000vh;
 }
